@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Transform.xsl"?>
+
+
+<root>
+<item>
+<id>1</id>
+<name>name</name>
+<description>email 1</description>
+</item>
+<item>
+<id>2</id>
+<name>name 2</name>
+<description>email2</description>
+</item>
+<item>
+<id>3</id>
+<name>name 3</name>
+<description>email 3</description>
+</item>
+</root>
